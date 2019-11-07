@@ -1,0 +1,52 @@
+ name="ObjectID" />
+            <data inType="win:Pointer" name="IHMECDS" />
+          </template>
+          <template tid="PLAYSINGLE_PH_RESOLVE_STOP_PAYLOAD">
+            <data inType="win:Pointer" name="ProtocolHandler" />
+            <data inType="win:Pointer" name="IInternetProtocolSink" />
+            <data inType="win:UnicodeString" name="UDN" />
+            <data inType="win:UnicodeString" name="ServiceID" />
+            <data inType="win:UnicodeString" name="ObjectID" />
+            <data inType="win:UInt32" name="HResult" />
+          </template>
+          <template tid="PLAYSINGLE_PH_BROWSECDS_PAYLOAD">
+            <data inType="win:Pointer" name="ProtocolHandler" />
+            <data inType="win:UnicodeString" name="UDN" />
+            <data inType="win:UnicodeString" name="ObjectID" />
+            <data inType="win:Pointer" name="IHMECDS" />
+            <data inType="win:UInt32" name="HResult" />
+          </template>
+          <template tid="PLAYSINGLE_PH_BROWSECDS_SEARCHRESULTS_PAYLOAD">
+            <data inType="win:Pointer" name="ProtocolHandler" />
+            <data inType="win:UnicodeString" name="UDN" />
+            <data inType="win:UnicodeString" name="ObjectID" />
+            <data inType="win:AnsiString" name="ASX" />
+            <data inType="win:UInt32" name="HResult" />
+          </template>
+          <template tid="PLAYCONTAINER_CREATE_PLAYLIST_START_PAYLOAD">
+            <data inType="win:Pointer" name="PlaylistMgr" />
+            <data inType="win:UnicodeString" name="URL" />
+          </template>
+          <template tid="PLAYCONTAINER_CREATE_PLAYLIST_STOP_PAYLOAD">
+            <data inType="win:Pointer" name="PlaylistMgr" />
+            <data inType="win:UnicodeString" name="URL" />
+            <data inType="win:Pointer" name="IWMPPlaylist" />
+            <data inType="win:UInt32" name="HResult" />
+          </template>
+        </templates>
+        <events>
+          <event keywords="mediaplayer" level="win:Informational" opcode="MEDIA_OPEN" symbol="PERF_MEDIA_OPEN" task="LEGACY_EVENT" value="1" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="PLAYLIST_OPEN_NOMEDIA" symbol="PERF_PLAYLIST_OPEN_NOMEDIA" task="LEGACY_EVENT" value="2" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="PLAYING" symbol="PERF_PLAYING" task="LEGACY_EVENT" value="3" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Start" symbol="PERF_RIP_START" task="RIP" value="4" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Stop" symbol="PERF_RIP_STOP" task="RIP" value="5" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="LOCAL_PLAY_BEGIN" symbol="PERF_LOCAL_PLAY_BEGIN" task="LEGACY_EVENT" value="7" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="STREAMING_PLAY_BEGIN" symbol="PERF_STREAMING_PLAY_BEGIN" task="LEGACY_EVENT" value="8" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Start" symbol="PERF_PDA_TRANSFER_START" task="PDA_TRANSFER" value="9" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Stop" symbol="PERF_PDA_TRANSFER_END" task="PDA_TRANSFER" value="10" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="ADD_FILES_LIBRARY_END" symbol="PERF_ADD_FILES_LIBRARY_END" task="LEGACY_EVENT" value="11" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Start" symbol="PERF_SEARCHFORMEDIA_START" task="SEARCHFORMEDIA" value="12" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Stop" symbol="PERF_SEARCHFORMEDIA_END" task="SEARCHFORMEDIA" value="13" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="DELETESELECTED_END" symbol="PERF_DELETESELECTED_END" task="LEGACY_EVENT" value="14" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="BEFORENAVIGATE2" symbol="PERF_BEFORENAVIGATE2" task="LEGACY_EVENT" value="15" version="0" />
+          <event keywords="mediaplayer" level="win:Informational"

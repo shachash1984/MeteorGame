@@ -1,0 +1,40 @@
+vecontrolpanel" />
+      <registryValue name="ApplicationDescription" valueType="REG_SZ" value="@{windows.immersivecontrolpanel_10.0.1.1000_neutral_neutral_cw5n1h2txyewy?ms-resource://windows.immersivecontrolpanel/Resources/TileDescription}" />
+      <securityDescriptor name="WRP_REGKEY_DEFAULT_SDDL" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\ms-settings-notifications\Shell\Open">
+      <registryValue name="ActivatableClassId" valueType="REG_SZ" value="microsoft.windows.immersivecontrolpanel" />
+      <registryValue name="ContractId" valueType="REG_SZ" value="Windows.Protocol" />
+      <registryValue name="PackageId" valueType="REG_SZ" value="windows.immersivecontrolpanel_10.0.1.1000_neutral_neutral_cw5n1h2txyewy" />
+      <registryValue name="DesiredInitialViewState" valueType="REG_DWORD" value="0x00000000" />
+      <securityDescriptor name="WRP_REGKEY_DEFAULT_SDDL" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\ms-settings-notifications\Shell\Open\Command">
+      <registryValue name="DelegateExecute" valueType="REG_SZ" value="{4ed3a719-cea8-4bd9-910d-e252f997afc2}" />
+      <securityDescriptor name="WRP_REGKEY_DEFAULT_SDDL" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\Software\Microsoft\Windows\Shell\Associations\UrlAssociations\ms-settings-notifications">
+      <securityDescriptor name="WRP_REGKEY_DEFAULT_SDDL" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\Software\Microsoft\Internet Explorer\ProtocolExecute\ms-settings-notifications">
+      <registryValue name="WarnOnOpen" valueType="REG_DWORD" value="0x00000000" />
+      <securityDescriptor name="WRP_REGKEY_DEFAULT_SDDL" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\ms-settings-proximity">
+      <registryValue name="" valueType="REG_SZ" value="URL:ms-settings-proximity" />
+      <registryValue name="URL Protocol" valueType="REG_SZ" value="" />
+      <securityDescriptor name="WRP_REGKEY_DEFAULT_SDDL" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\ms-settings-proximity\DefaultIcon">
+      <registryValue name="" valueType="REG_SZ" value="@{windows.immersivecontrolpanel_10.0.1.1000_neutral_neutral_cw5n1h2txyewy?ms-resource://windows.immersivecontrolpanel/Files/images/logo.png}" />
+      <securityDescriptor name="WRP_REGKEY_DEFAULT_SDDL" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\ms-settings-proximity\Application">
+      <registryValue name="ApplicationName" valueType="REG_SZ" value="@{windows.immersivecontrolpanel_10.0.1.1000_neutral_neutral_cw5n1h2txyewy?ms-resource://windows.immersivecontrolpanel/Resources/TileDisplayName}" />
+      <registryValue name="ApplicationCompany" valueType="REG_SZ" value="@{windows.immersivecontrolpanel_10.0.1.1000_neutral_neutral_cw5n1h2txyewy?ms-resource://windows.immersivecontrolpanel/Resources/PublisherDisplayName}" />
+      <registryValue name="ApplicationIcon" valueType="REG_SZ" value="@{windows.immersivecontrolpanel_10.0.1.1000_neutral_neutral_cw5n1h2txyewy?ms-resource://windows.immersivecontrolpanel/Files/images/logo.png}" />
+      <registryValue name="AppUserModelId" valueType="REG_SZ" value="windows.immersivecontrolpanel_cw5n1h2txyewy!microsoft.windows.immersivecontrolpanel" />
+      <registryValue name="ApplicationDescription" valueType="REG_SZ" value="@{windows.immersivecontrolpanel_10.0.1.1000_neutral_neutral_cw5n1h2txyewy?ms-resource://windows.immersivecontrolpanel/Resources/TileDescription}" />
+      <securityDescriptor name="WRP_REGKEY_DEFAULT_SDDL" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\ms-set

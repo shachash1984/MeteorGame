@@ -1,0 +1,73 @@
+yValue name="" valueType="REG_SZ" value="{6BF52A50-394A-11D3-B153-00C04F79FAA6}" />
+      <registryValue name="Version" valueType="REG_SZ" value="1.0" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{350BA78B-6BC8-4113-A5F5-312056934EB6}\">
+      <registryValue name="" valueType="REG_SZ" value="IWMPClosedCaption2" />
+      <securityDescriptor name="WRP_KEY_DEFAULT_SDDL" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{350BA78B-6BC8-4113-A5F5-312056934EB6}\ProxyStubClsid32\">
+      <registryValue name="" valueType="REG_SZ" value="{00020424-0000-0000-C000-000000000046}" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{350BA78B-6BC8-4113-A5F5-312056934EB6}\ProxyStubClsid\">
+      <registryValue name="" valueType="REG_SZ" value="{00020424-0000-0000-C000-000000000046}" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{350BA78B-6BC8-4113-A5F5-312056934EB6}\TypeLib\">
+      <registryValue name="" valueType="REG_SZ" value="{6BF52A50-394A-11D3-B153-00C04F79FAA6}" />
+      <registryValue name="Version" valueType="REG_SZ" value="1.0" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{3614C646-3B3B-4DE7-A81E-930E3F2127B3}\">
+      <registryValue name="" valueType="REG_SZ" value="IWMPErrorItem" />
+      <securityDescriptor name="WRP_KEY_DEFAULT_SDDL" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{3614C646-3B3B-4DE7-A81E-930E3F2127B3}\ProxyStubClsid32\">
+      <registryValue name="" valueType="REG_SZ" value="{00020424-0000-0000-C000-000000000046}" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{3614C646-3B3B-4DE7-A81E-930E3F2127B3}\ProxyStubClsid\">
+      <registryValue name="" valueType="REG_SZ" value="{00020424-0000-0000-C000-000000000046}" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{3614C646-3B3B-4DE7-A81E-930E3F2127B3}\TypeLib\">
+      <registryValue name="" valueType="REG_SZ" value="{6BF52A50-394A-11D3-B153-00C04F79FAA6}" />
+      <registryValue name="Version" valueType="REG_SZ" value="1.0" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{39C2F8D5-1CF2-4d5e-AE09-D73492CF9EAA}">
+      <registryValue name="" valueType="REG_SZ" value="IWMPLibraryServices" />
+      <securityDescriptor name="WRP_KEY_DEFAULT_SDDL" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{39C2F8D5-1CF2-4d5e-AE09-D73492CF9EAA}\ProxyStubClsid">
+      <registryValue name="" valueType="REG_SZ" value="{00020424-0000-0000-C000-000000000046}" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{39C2F8D5-1CF2-4d5e-AE09-D73492CF9EAA}\ProxyStubClsid32">
+      <registryValue name="" valueType="REG_SZ" value="{00020424-0000-0000-C000-000000000046}" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{39C2F8D5-1CF2-4d5e-AE09-D73492CF9EAA}\TypeLib">
+      <registryValue name="" valueType="REG_SZ" value="{6BF52A50-394A-11D3-B153-00C04F79FAA6}" />
+      <registryValue name="Version" valueType="REG_SZ" value="1.0" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{3DF47861-7DF1-4c1f-A81B-4C26F0F7A7C6}">
+      <registryValue name="" valueType="REG_SZ" value="IWMPLibrary" />
+      <securityDescriptor name="WRP_KEY_DEFAULT_SDDL" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{3DF47861-7DF1-4c1f-A81B-4C26F0F7A7C6}\ProxyStubClsid">
+      <registryValue name="" valueType="REG_SZ" value="{00020424-0000-0000-C000-000000000046}" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{3DF47861-7DF1-4c1f-A81B-4C26F0F7A7C6}\ProxyStubClsid32">
+      <registryValue name="" valueType="REG_SZ" value="{00020424-0000-0000-C000-000000000046}" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{3DF47861-7DF1-4c1f-A81B-4C26F0F7A7C6}\TypeLib">
+      <registryValue name="" valueType="REG_SZ" value="{6BF52A50-394A-11D3-B1ond: {r: 1, g: 0.1397059, b: 0.1397059, a: 1}
+      data:
+        first:
+          name: _TintColor
+        second: {r: 2.4264712, g: 3.7576027, b: 30, a: 1}
+      data:
+        first:
+          name: _Tiling
+        second: {r: 800, g: 800, b: 8, a: 8}
+      data:
+        first:
+          name: _TintColorBack
+        second: {r: 0.5, g: 0.5, b: 0.5, a: 0.5}
+      data:
+        first:
+          name: _TintColorFront
+        second: {r: 0.1, g: 0.1, b: 0.1, a: 0.1}

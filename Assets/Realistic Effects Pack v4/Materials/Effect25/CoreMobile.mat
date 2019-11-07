@@ -1,0 +1,52 @@
+_DEFAULT_SDDL" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{72F486B1-0D43-11D3-BD3F-00C04F6EA5AE}\ProxyStubClsid32\">
+      <registryValue name="" valueType="REG_SZ" value="{00020424-0000-0000-C000-000000000046}" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{72F486B1-0D43-11D3-BD3F-00C04F6EA5AE}\ProxyStubClsid\">
+      <registryValue name="" valueType="REG_SZ" value="{00020424-0000-0000-C000-000000000046}" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{72F486B1-0D43-11D3-BD3F-00C04F6EA5AE}\TypeLib\">
+      <registryValue name="" valueType="REG_SZ" value="{6BF52A50-394A-11D3-B153-00C04F79FAA6}" />
+      <registryValue name="Version" valueType="REG_SZ" value="1.0" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{74C09E02-F828-11D2-A74B-00A0C905F36E}\">
+      <registryValue name="" valueType="REG_SZ" value="IWMPControls" />
+      <securityDescriptor name="WRP_KEY_DEFAULT_SDDL" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{74C09E02-F828-11D2-A74B-00A0C905F36E}\ProxyStubClsid32\">
+      <registryValue name="" valueType="REG_SZ" value="{00020424-0000-0000-C000-000000000046}" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{74C09E02-F828-11D2-A74B-00A0C905F36E}\ProxyStubClsid\">
+      <registryValue name="" valueType="REG_SZ" value="{00020424-0000-0000-C000-000000000046}" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{74C09E02-F828-11D2-A74B-00A0C905F36E}\TypeLib\">
+      <registryValue name="" valueType="REG_SZ" value="{6BF52A50-394A-11D3-B153-00C04F79FAA6}" />
+      <registryValue name="Version" valueType="REG_SZ" value="1.0" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{7587C667-628F-499F-88E7-6A6F4E888464}\">
+      <registryValue name="" valueType="REG_SZ" value="IWMPCore3" />
+      <securityDescriptor name="WRP_KEY_DEFAULT_SDDL" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{7587C667-628F-499F-88E7-6A6F4E888464}\ProxyStubClsid32\">
+      <registryValue name="" valueType="REG_SZ" value="{00020424-0000-0000-C000-000000000046}" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{7587C667-628F-499F-88E7-6A6F4E888464}\ProxyStubClsid\">
+      <registryValue name="" valueType="REG_SZ" value="{00020424-0000-0000-C000-000000000046}" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{7587C667-628F-499F-88E7-6A6F4E888464}\TypeLib\">
+      <registryValue name="" valueType="REG_SZ" value="{6BF52A50-394A-11D3-B153-00C04F79FAA6}" />
+      <registryValue name="Version" valueType="REG_SZ" value="1.0" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{769A72DB-13D2-45E2-9C48-53CA9D5B7450}\">
+      <registryValue name="" valueType="REG_SZ" value="IWMPMetadataText" />
+      <securityDescriptor name="WRP_KEY_DEFAULT_SDDL" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{769A72DB-13D2-45E2-9C48-53CA9D5B7450}\ProxyStubClsid32\">
+      <registryValue name="" valueType="REG_SZ" value="{00020424-0000-0000-C000-000000000046}" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{769A72DB-13D2-45E2-9C48-53CA9D5B7450}\ProxyStubClsid\">
+      <registryValue name="" valueType="REG_SZ" value="{00020424-0000-0000-C000-000000000046}" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{769A72DB-13D2-45E2-9C48-53CA9D5B7450}\TypeLib\">
+      <registryValue name="" valueType="

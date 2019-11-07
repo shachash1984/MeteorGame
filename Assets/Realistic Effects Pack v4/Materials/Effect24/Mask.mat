@@ -1,0 +1,34 @@
+ryKey keyName="HKEY_LOCAL_MACHINE\SYSTEM\DriverDatabase\DriverPackages\hdaudio.inf_amd64_22b64422d264a6fb\Configurations\HdAudModel\Driver\DeviceInterfaces\eLineIn\FriendlyNames\Wave">
+      <registryValue name="1" valueType="REG_SZ" value="HD Audio Line in" />
+      <registryValue name="2" valueType="REG_SZ" value="HD Audio Line in 2" />
+      <registryValue name="3" valueType="REG_SZ" value="HD Audio Line in 3" />
+      <registryValue name="4" valueType="REG_SZ" value="HD Audio Line in 4" />
+      <registryValue name="5" valueType="REG_SZ" value="HD Audio Line in 5" />
+      <securityDescriptor name="SD0" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SYSTEM\DriverDatabase\DriverPackages\hdaudio.inf_amd64_22b64422d264a6fb\Configurations\HdAudModel\Driver\DeviceInterfaces\eLineOut">
+      <securityDescriptor name="SD0" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SYSTEM\DriverDatabase\DriverPackages\hdaudio.inf_amd64_22b64422d264a6fb\Configurations\HdAudModel\Driver\DeviceInterfaces\eLineOut\DeviceParameters">
+      <securityDescriptor name="SD0" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SYSTEM\DriverDatabase\DriverPackages\hdaudio.inf_amd64_22b64422d264a6fb\Configurations\HdAudModel\Driver\DeviceInterfaces\eLineOut\DeviceParameters\MSEP">
+      <securityDescriptor name="SD0" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SYSTEM\DriverDatabase\DriverPackages\hdaudio.inf_amd64_22b64422d264a6fb\Configurations\HdAudModel\Driver\DeviceInterfaces\eLineOut\DeviceParameters\MSEP\0">
+      <registryValue name="{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},2" valueType="REG_SZ" value="{00000000-0000-0000-0000-000000000000}" />
+      <registryValue name="{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},7" valueType="REG_DWORD" value="0x00000001" />
+      <securityDescriptor name="SD0" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SYSTEM\DriverDatabase\DriverPackages\hdaudio.inf_amd64_22b64422d264a6fb\Configurations\HdAudModel\Driver\DeviceInterfaces\eLineOut\DeviceParameters\MSFX">
+      <securityDescriptor name="SD0" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SYSTEM\DriverDatabase\DriverPackages\hdaudio.inf_amd64_22b64422d264a6fb\Configurations\HdAudModel\Driver\DeviceInterfaces\eLineOut\DeviceParameters\MSFX\0">
+      <registryValue name="{B725F130-47EF-101A-A5F1-02608C9EEBAC},10" valueType="REG_SZ" value="Microsoft Audio Home Theater Effects" />
+      <registryValue name="{D04E05A6-594B-4fb6-A80D-01AF5EED7D1D},0" valueType="REG_SZ" value="{00000000-0000-0000-0000-000000000000}" />
+      <registryValue name="{D04E05A6-594B-4fb6-A80D-01AF5EED7D1D},3" valueType="REG_SZ" value="{5860E1C5-F95C-4a7a-8EC8-8AEF24F379A1}" />
+      <registryValue name="{D04E05A6-594B-4fb6-A80D-01AF5EED7D1D},5" valueType="REG_SZ" value="{62dc1a93-ae24-464c-a43e-452f824c4250}" />
+      <registryValue name="{D04E05A6-594B-4fb6-A80D-01AF5EED7D1D},6" valueType="REG_SZ" value="{637c490d-eee3-4c0a-973f-371958802da2}" />
+      <registryValue name="{D3993A3F-99C2-4402-B5EC-A92A0367664B},5" valueType="REG_MULTI_SZ" value="&quot;{C18E2F7E-933D-4965-B7D1-1EEF228D2AF3}&quot;" />
+      <registryValue name="{D3993A3F-99C2-4402-B5EC-A92A0367664B},6" valueType="REG_MULTI_SZ" value="&quot;{C18E2F7E-933D-4965-B7D1-1EEF228D2AF3}&quot;" />
+    

@@ -1,0 +1,21 @@
+ENU_STOP_PAYLOAD" value="426" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Start" symbol="CONFIGURE_STREAMING_MENU_START" task="CONFIGURE_STREAMING_MENU_ACTION" value="427" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Stop" symbol="CONFIGURE_STREAMING_MENU_STOP" task="CONFIGURE_STREAMING_MENU_ACTION" template="STREAMING_MENU_STOP_PAYLOAD" value="428" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Start" symbol="RECEIVE_MEDIA_MENU_START" task="RECEIVE_MEDIA_MENU_ACTION" value="429" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Stop" symbol="RECEIVE_MEDIA_MENU_STOP" task="RECEIVE_MEDIA_MENU_ACTION" template="STREAMING_MENU_STOP_PAYLOAD" value="430" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Start" symbol="CONFIGURE_RME_MENU_START" task="CONFIGURE_RME_MENU_ACTION" value="431" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Stop" symbol="CONFIGURE_RME_MENU_STOP" task="CONFIGURE_RME_MENU_ACTION" template="STREAMING_MENU_STOP_PAYLOAD" value="432" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Start" symbol="STREAMING_MENU_RENDER_START" task="STREAMING_MENU_RENDER_ACTION" value="433" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Stop" symbol="STREAMING_MENU_RENDER_STOP" task="STREAMING_MENU_RENDER_ACTION" template="STREAMING_MENU_STOP_PAYLOAD" value="434" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Info" symbol="STREAMING_MENUITEM_RME_CHECKSTATE" task="STREAMING_MENUITEM_RME_CHECKSTATE_ACTION" template="STREAMING_MENU_CHECKSTATE_PAYLOAD" value="435" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Info" symbol="STREAMING_MENUITEM_RECEIVEMEDIA_CHECKSTATE" task="STREAMING_MENUITEM_RECEIVEMEDIA_CHECKSTATE" template="STREAMING_MENU_CHECKSTATE_PAYLOAD" value="436" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Info" symbol="STREAMING_MENUITEM_AUTOALLOWDEVICES_CHECKSTATE" task="STREAMING_MENUITEM_AUTOALLOWDEVICES_CHECKSTATE" template="STREAMING_MENU_CHECKSTATE_PAYLOAD" value="437" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Start" symbol="ALLOW_ALL_DEVICES_MENU_START" task="ALLOW_ALL_DEVICES_MENU_ACTION" value="438" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Stop" symbol="ALLOW_ALL_DEVICES_MENU_STOP" task="ALLOW_ALL_DEVICES_MENU_ACTION" template="STREAMING_MENU_STOP_PAYLOAD" value="439" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Start" symbol="CONFIGURE_STREAMING_HG_MENU_START" task="CONFIGURE_STREAMING_HG_MENU_ACTION" value="440" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Stop" symbol="CONFIGURE_STREAMING_HG_MENU_STOP" task="CONFIGURE_STREAMING_HG_MENU_ACTION" template="STREAMING_MENU_STOP_PAYLOAD" value="441" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Start" symbol="PLAYSINGLE_PH_RESOLVE_START" task="PLAYSINGLE_PH_RESOLVE" template="PLAYSINGLE_PH_RESOLVE_START_PAYLOAD" value="450" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Info" symbol="PLAYSINGLE_PH_RESOLVE_INFO" task="PLAYSINGLE_PH_RESOLVE" template="PLAYSINGLE_PH_RESOLVE_INFO_PAYLOAD" value="451" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Stop" symbol="PLAYSINGLE_PH_RESOLVE_STOP" task="PLAYSINGLE_PH_RESOLVE" template="PLAYSINGLE_PH_RESOLVE_STOP_PAYLOAD" value="452" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Start" symbol="PLAYSINGLE_PH_BROWSECDS_START" task="PLAYSINGLE_PH_BROWSECDS" template="PLAYSINGLE_PH_BROWSECDS_PAYLOAD" value="453" version="0" />
+          <event keywords="mediaplayer" level="win:Informational" opcode="win:Info" symbol="PLAYSINGLE_PH_BROWSECDS_SEARCHRESULTS" task="PLAYSINGLE_PH_BR

@@ -1,0 +1,45 @@
+ue name="3" valueType="REG_SZ" value="HD Audio Speaker mixer 3" />
+      <registryValue name="4" valueType="REG_SZ" value="HD Audio Speaker mixer 4" />
+      <registryValue name="5" valueType="REG_SZ" value="HD Audio Speaker mixer 5" />
+      <securityDescriptor name="SD0" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SYSTEM\DriverDatabase\DriverPackages\hdaudio.inf_amd64_22b64422d264a6fb\Configurations\HdAudModel\Driver\DeviceInterfaces\eLineOut\FriendlyNames\Wave">
+      <registryValue name="1" valueType="REG_SZ" value="HD Audio Speaker" />
+      <registryValue name="2" valueType="REG_SZ" value="HD Audio Speaker 2" />
+      <registryValue name="3" valueType="REG_SZ" value="HD Audio Speaker 3" />
+      <registryValue name="4" valueType="REG_SZ" value="HD Audio Speaker 4" />
+      <registryValue name="5" valueType="REG_SZ" value="HD Audio Speaker 5" />
+      <securityDescriptor name="SD0" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SYSTEM\DriverDatabase\DriverPackages\hdaudio.inf_amd64_22b64422d264a6fb\Configurations\HdAudModel\Driver\DeviceInterfaces\eMicArray">
+      <securityDescriptor name="SD0" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SYSTEM\DriverDatabase\DriverPackages\hdaudio.inf_amd64_22b64422d264a6fb\Configurations\HdAudModel\Driver\DeviceInterfaces\eMicArray\DeviceParameters">
+      <securityDescriptor name="SD0" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SYSTEM\DriverDatabase\DriverPackages\hdaudio.inf_amd64_22b64422d264a6fb\Configurations\HdAudModel\Driver\DeviceInterfaces\eMicArray\DeviceParameters\MSEP">
+      <securityDescriptor name="SD0" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SYSTEM\DriverDatabase\DriverPackages\hdaudio.inf_amd64_22b64422d264a6fb\Configurations\HdAudModel\Driver\DeviceInterfaces\eMicArray\DeviceParameters\MSEP\0">
+      <registryValue name="{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},2" valueType="REG_SZ" value="{00000000-0000-0000-0000-000000000000}" />
+      <registryValue name="{1DA5D803-D492-4EDD-8C23-E0C0FFEE7F0E},7" valueType="REG_DWORD" value="0x00000001" />
+      <securityDescriptor name="SD0" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SYSTEM\DriverDatabase\DriverPackages\hdaudio.inf_amd64_22b64422d264a6fb\Configurations\HdAudModel\Driver\DeviceInterfaces\eMicArray\FriendlyNames">
+      <securityDescriptor name="SD0" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SYSTEM\DriverDatabase\DriverPackages\hdaudio.inf_amd64_22b64422d264a6fb\Configurations\HdAudModel\Driver\DeviceInterfaces\eMicArray\FriendlyNames\Mixer">
+      <registryValue name="1" valueType="REG_SZ" value="HD Audio Microphone array mixer" />
+      <securityDescriptor name="SD0" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SYSTEM\DriverDatabase\DriverPackages\hdaudio.inf_amd64_22b64422d264a6fb\Configurations\HdAudModel\Driver\DeviceInterfaces\eMicArray\FriendlyNames\Wave">
+      <registryValue name="1" valueType="REG_SZ" value="HD Audio Microphone array" />
+      <securityDescriptor name="SD0" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SYSTEM\DriverDatabase\DriverPackages\hdaudio.inf_amd64_22b64422d264a6fb\Configurations\HdAudModel\Driver\DeviceInterfaces\eMicIn">
+      <securityDescriptor name="SD0" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SYSTEM\DriverDatabase\DriverPackages\hdaudio.inf_amd64_22b64422d264a6fb\Configurations\HdAudModel\Driver\DeviceInterfaces\eMicIn\DeviceParameters">
+      <securityDescriptor name="SD0" />
+    </registryKey>
+    <reg

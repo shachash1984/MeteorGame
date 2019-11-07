@@ -1,0 +1,62 @@
+  <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>yfHCber4igoSAdyqWMefw9D6J58J/qvb7OQ751n9RLs=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="DMR_48.png" destinationPath="$(runtime.programFiles)\Windows Media Player\Media Renderer\" sourceName="DMR_48.png" importPath="$(build.nttree)\" sourcePath=".\">
+    <securityDescriptor name="WRP_FILE_DEFAULT_SDDL" />
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>dW4WBRFAJQdGdUM67JgO4WxH2xdU/AlCtRFEVu6RfkA=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="DMR_120.png" destinationPath="$(runtime.programFiles)\Windows Media Player\Media Renderer\" sourceName="DMR_120.png" importPath="$(build.nttree)\" sourcePath=".\">
+    <securityDescriptor name="WRP_FILE_DEFAULT_SDDL" />
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>pjNtB7+wpfjIPEmQ69fFZMrH1e0SSOWl1RqQkqdp5p8=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="DMR_48.jpg" destinationPath="$(runtime.programFiles)\Windows Media Player\Media Renderer\" sourceName="DMR_48.jpg" importPath="$(build.nttree)\" sourcePath=".\">
+    <securityDescriptor name="WRP_FILE_DEFAULT_SDDL" />
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>4BDNvtVd4MXnb1Qx77uJjICSynLjxaKtYnmJVnkUlLo=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="DMR_120.jpg" destinationPath="$(runtime.programFiles)\Windows Media Player\Media Renderer\" sourceName="DMR_120.jpg" importPath="$(build.nttree)\" sourcePath=".\">
+    <securityDescriptor name="WRP_FILE_DEFAULT_SDDL" />
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>g9ERKqLkE9SkhtchzS7RrYSSsS9F8hql4KfSDyBcayE=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="wmploc.DLL" destinationPath="$(runtime.system32)\" sourceName="wmploc.DLL" importPath="$(build.nttree)\" sourcePath=".\">
+    <securityDescriptor name="WRP_FILE_DEFAULT_SDDL" />
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:HashTransforms.Identity" />
+      </dsig:Transforms>
+      <dsig:DigestMethod Algorithm="http://www.w3.org/2000/09/xmldsig#sha256" />
+      <dsig:DigestValue>tes6DzEgBao+eGo00S9dn2c/tFrsFVKKODQkjhugQoM=</dsig:DigestValue>
+    </asmv2:hash>
+  </file>
+  <file name="spwmp.dll" destinationPath="$(runtime.system32)\" sourceName="spwmp.dll" importPath="$(build.nttree)\opk\tools\amd64\" sourcePath=".\">
+    <securityDescriptor name="WRP_FILE_DEFAULT_SDDL" />
+    <asmv2:hash xmlns:asmv2="urn:schemas-microsoft-com:asm.v2" xmlns:dsig="http://www.w3.org/2000/09/xmldsig#">
+      <dsig:Transforms>
+        <dsig:Transform Algorithm="urn:schemas-microsoft-com:

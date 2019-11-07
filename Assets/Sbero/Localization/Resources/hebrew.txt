@@ -1,0 +1,18 @@
+# This should be set for right-to-left languages like hebrew or arabic
+RTL=Yes
+
+GameTitle=שער ישיר
+
+PlayButton=כניסה למשחק
+ConnectingMessage=מתחבר...
+
+ServerErrorMessage=תקלה בחיבור לשרת!
+ErrorButtonClose=יציאה
+ErrorButtonAgain=נסה שנית
+
+GameDraw=תיקו
+GameVictory=נצחון!
+Success=כל הכבוד! עלית שלב!
+Miss=פספסת! נסה שוב...
+TapToStart=הקש כדי להתחיל
+Level=שלב:

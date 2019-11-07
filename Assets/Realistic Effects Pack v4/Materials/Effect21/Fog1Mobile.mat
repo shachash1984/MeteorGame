@@ -1,0 +1,59 @@
+         <task eventGUID="{B86F1B28-98DF-4ccb-ADA8-F9FDACF526A1}" name="THUMBNAIL_TOOLBAR_BUTTON_CLICKED" value="801" />
+          <task eventGUID="{4D2DDA5C-F5C0-4641-98E6-1A24828E7172}" name="THUMBNAIL_TOOLTIP_CHANGED" value="802" />
+          <task eventGUID="{49B0E5EB-A446-4659-A45B-5B472DEE9F37}" name="THUMBNAIL_BITMAPS_INVALIDATED" value="803" />
+          <task eventGUID="{A288B94C-E636-47c0-A9FA-9510B117F0F4}" name="THUMBNAIL_BITMAP_UPDATE" value="804" />
+          <task eventGUID="{C3B2B026-6EF4-42ab-A6EE-650B6FA83D35}" name="THUMBNAIL_LIVEPREVIEWBITMAP_UPDATE" value="805" />
+          <task name="PLAYSINGLE_PH_RESOLVE" value="850" />
+          <task name="PLAYSINGLE_PH_BROWSECDS" value="851" />
+          <task name="PLAYCONTAINER_CREATE_PLAYLIST" value="852" />
+          <task eventGUID="{0511faf7-9f24-4b54-b839-2acf1cc4a918}" name="CDDVD_LAUNCH" value="860" />
+        </tasks>
+        <opcodes>
+          <opcode name="LOCAL_PLAY_BEGIN" value="11" />
+          <opcode name="STREAMING_PLAY_BEGIN" value="12" />
+          <opcode name="MEDIA_OPEN" value="13" />
+          <opcode name="PLAYLIST_OPEN_NOMEDIA" value="14" />
+          <opcode name="PLAYING" value="15" />
+          <opcode name="ADD_FILES_LIBRARY_END" value="16" />
+          <opcode name="DELETESELECTED_END" value="17" />
+          <opcode name="BEFORENAVIGATE2" value="18" />
+          <opcode name="DOCUMENTCOMPLETE" value="19" />
+          <opcode name="TRANSITIONING" value="20" />
+          <opcode name="MEDIA_ENDED" value="21" />
+          <opcode name="ERROR_DIALOG" value="22" />
+          <opcode name="EXCEPTION_THROWN" value="23" />
+          <opcode name="APP_IDLE" value="24" />
+          <opcode name="PLAYLIST_POPULATED" value="25" />
+          <opcode name="OCX_FIRST_PAINT" value="26" />
+          <opcode name="TREEVIEW_EXPANDED" value="27" />
+          <opcode name="FULLSCREEN" value="28" />
+          <opcode name="BULKEDITCOMPLETE" value="29" />
+          <opcode name="NODERENAMECOMPLETE" value="30" />
+          <opcode name="DROPCOMPLETE" value="31" />
+          <opcode name="COLUMNSORTCOMPLETE" value="32" />
+          <opcode name="OCXSETCLIENTSITE" value="33" />
+          <opcode name="OCXACTIVATED" value="34" />
+          <opcode name="DEVICEINDIVSETCLOCK" value="35" />
+          <opcode name="SQM_UPLOAD_SIGNAL" value="36" />
+          <opcode name="PROC_START" value="37" />
+          <opcode name="PROC_END" value="38" />
+          <opcode name="DLL_START" value="39" />
+          <opcode name="DLL_END" value="40" />
+          <opcode name="HME_SERVICEADDED" value="41" />
+          <opcode name="PDA_DEVICE_DETECTED" value="42" />
+          <opcode name="Checkpoint_1" value="43" />
+          <opcode name="Checkpoint_2" value="44" />
+          <opcode name="Checkpoint_3" value="45" />
+          <opcode name="Checkpoint_4" value="46" />
+          <opcode name="StateChange" value="47" />
+          <opcode name="CLOSEBUTTON_CLICK" value="48" />
+          <opcode name="EXITBUTTON_CLICK" value="49" />
+          <opcode name="Added" value="100" />
+          <opcode name="Removed" value="101" />
+          <opcode message="$(string.opcode.120.message)" name="RollOverToDShow" value="120" />
+          <opcode message="$(string.opcode.122.message)" name="UseMP4TranscodeMatrix" value="122" />
+          <opcode message="$(string.opcode.123.message)" name="UseASFTranscodeMatrix" value="123" />
+          <opcode message="$(string.opcode.124.message)" name="UseMP3TranscodeMatrix" value="124" />
+        </opcodes>
+        <templates>
+          <template tid="GrovelerStatsPayload">

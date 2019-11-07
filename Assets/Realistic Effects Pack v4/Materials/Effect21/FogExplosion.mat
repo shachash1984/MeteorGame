@@ -1,0 +1,90 @@
+e" />
+          </template>
+          <template tid="NameValuePayload">
+            <data inType="win:UnicodeString" name="Name" />
+            <data inType="win:UnicodeString" name="Value" />
+          </template>
+          <template tid="NameHRESULTPayload">
+            <data inType="win:UnicodeString" name="Name" />
+            <data inType="win:UInt32" name="HRESULT" outType="win:ErrorCode" />
+          </template>
+          <template tid="DeviceNamePayload">
+            <data inType="win:UnicodeString" name="DeviceName" />
+            <data inType="win:UnicodeString" name="PnPID" />
+          </template>
+          <template tid="KeyPayload">
+            <data inType="win:UInt32" name="Key" />
+          </template>
+          <template tid="NameValueIndexPayload">
+            <data inType="win:UnicodeString" name="Name" />
+            <data inType="win:UnicodeString" name="Value" />
+            <data inType="win:UInt32" name="Index" />
+          </template>
+          <template tid="DWORDPayload">
+            <data inType="win:UInt32" name="Value" />
+          </template>
+          <template tid="Skinformational">
+            <data inType="win:UnicodeString" name="Category" />
+            <data inType="win:UnicodeString" name="Skinformation" />
+          </template>
+          <template tid="LibraryStringStringString">
+            <data inType="win:UnicodeString" name="Value1" />
+            <data inType="win:UnicodeString" name="Value2" />
+            <data inType="win:UnicodeString" name="Value3" />
+          </template>
+          <template tid="LibraryStringString">
+            <data inType="win:UnicodeString" name="Value1" />
+            <data inType="win:UnicodeString" name="Value2" />
+          </template>
+          <template tid="LibraryStringInt">
+            <data inType="win:UnicodeString" name="Value1" />
+            <data inType="win:UInt32" name="Value2" />
+          </template>
+          <template tid="LibraryIntInt">
+            <data inType="win:UInt32" name="Int1" />
+            <data inType="win:UInt32" name="Int2" />
+          </template>
+          <template tid="LibraryStringIntInt">
+            <data inType="win:UnicodeString" name="Value1" />
+            <data inType="win:UInt32" name="Value2" />
+            <data inType="win:UInt32" name="Value3" />
+          </template>
+          <template tid="PlaybackPayload">
+            <data inType="win:UnicodeString" name="EventType" />
+            <data inType="win:UInt32" name="NewState" />
+          </template>
+          <template tid="CmdLinePayload">
+            <data inType="win:UnicodeString" name="CmdLine" />
+          </template>
+          <template tid="ApplySkinPayload">
+            <data inType="win:UnicodeString" name="SkinPath" />
+          </template>
+          <template tid="ModeSwitcherPayload">
+            <data inType="win:UInt32" name="ModeSwitcherOption" />
+          </template>
+          <template tid="HRESULTPayload">
+            <data inType="win:UInt32" name="HRESULT" />
+          </template>
+          <template tid="ToolbarIDPayload">
+            <data inType="win:UInt32" name="ToolbarID" />
+          </template>
+          <template tid="ToolbarButtonIDPayload">
+            <data inType="win:UInt32" name="ButtonID" />
+          </template>
+          <template tid="TooltipPayload">
+            <data inType="win:UnicodeString" name="Tooltip" />
+          </template>
+          <template tid="TranscodePayload">
+            <data inType="win:UnicodeString" name="SourcePath" />
+            <data inType="win:UnicodeString" name="TargetPath" />
+          </template>
+          <template tid="TranscodeResultPayload">
+            <data inType="win:UnicodeString" name="SourcePath" />
+            <data inType="win:UnicodeString" name="TargetPath" />
+            <data inType="win:UInt32" name="HRESULT" outType="win:ErrorCode" />
+          </template>
+          <template tid="SourceFilePayload">
+            <data inType="win:UnicodeString" name="SourceFile" />
+          </template>
+          <template tid="SourceFileDRMPayload">
+            <data 

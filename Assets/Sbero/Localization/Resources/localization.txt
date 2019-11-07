@@ -1,0 +1,9 @@
+# File names for localization
+# Empty lines or lines starting with # are ignored
+# Do not include file extension here
+
+Hebrew=hebrew
+
+# Default localization file for other languages
+
+_Default=english

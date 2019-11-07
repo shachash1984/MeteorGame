@@ -1,0 +1,31 @@
+ptor name="WRP_KEY_DEFAULT_SDDL" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{76F13F00-6E17-4D98-BE2D-D2A84CFF5BFD}\ProxyStubClsid32\">
+      <registryValue name="" valueType="REG_SZ" value="{00020424-0000-0000-C000-000000000046}" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\Interface\{76F13F00-6E17-4D98-BE2D-D2A84CFF5BFD}\ProxyStubClsid\">
+      <registryValue name="" valueType="REG_SZ" value="{00020424-0000-0000-C000-000000000046}" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\NetworkExplorerPlugins\urn:schemas-upnp-org:device:MediaServer:1\DefaultIcon\">
+      <registryValue name="" valueType="REG_EXPAND_SZ" value="%SystemRoot%\System32\wmploc.dll,-29303" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\NetworkExplorerPlugins\urn:schemas-upnp-org:device:MediaRenderer:1\DefaultIcon\">
+      <registryValue name="" valueType="REG_EXPAND_SZ" value="%SystemRoot%\System32\wmploc.dll,-23304" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MediaPlayer\UIPlugins\{1F32514F-1561-4922-A604-8A1F478B5A42}\">
+      <registryValue name="Capabilities" valueType="REG_DWORD" value="0x00000004" />
+      <registryValue name="FriendlyName" valueType="REG_SZ" value="res://wmploc.dll/RT_STRING/#1495" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MediaPlayer\UIPlugins\{52903d79-f993-4de6-8317-20c9c176d823}\">
+      <registryValue name="Capabilities" valueType="REG_DWORD" value="0x00000004" />
+      <registryValue name="FriendlyName" valueType="REG_SZ" value="res://wmploc.dll/RT_STRING/#1496" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MediaPlayer\UIPlugins\{5DF031B7-6A37-42D9-8802-E27F4F224332}\">
+      <registryValue name="Capabilities" valueType="REG_DWORD" value="0x00000003" />
+      <registryValue name="FriendlyName" valueType="REG_SZ" value="Viz Plug-in" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MediaPlayer\UIPlugins\{5F4BB5C9-4652-489B-8601-EEC0C3C32E2E}\">
+      <registryValue name="Capabilities" valueType="REG_DWORD" value="0x00000004" />
+      <registryValue name="FriendlyName" valueType="REG_SZ" value="res://wmploc.dll/RT_STRING/#1494" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\MediaPlayer\UIPlu

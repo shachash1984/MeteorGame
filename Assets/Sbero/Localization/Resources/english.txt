@@ -1,0 +1,15 @@
+GameTitle=Direct Goal
+
+PlayButton=Play
+ConnectingMessage=Connecting...
+
+ServerErrorMessage=Error connecting to server!
+ErrorButtonClose=Close
+ErrorButtonAgain=Try Again
+
+GameDraw=Draw
+GameVictory=Victory!
+Success=Congratulations! You have leveled up!
+Miss=You missed, Try again...
+TapToStart=Tap to start
+Level=Level:

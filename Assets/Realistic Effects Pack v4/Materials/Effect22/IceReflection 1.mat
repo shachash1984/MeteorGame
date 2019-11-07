@@ -1,0 +1,33 @@
+.exe" valueType="REG_DWORD" value="0x00000001" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_SAFE_BINDTOOBJECT">
+      <registryValue name="wmplayer.exe" valueType="REG_DWORD" value="0x00000001" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_SECURITYBAND">
+      <registryValue name="wmplayer.exe" valueType="REG_DWORD" value="0x00000001" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_UNC_SAVEDFILECHECK">
+      <registryValue name="wmplayer.exe" valueType="REG_DWORD" value="0x00000001" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_VALIDATE_NAVIGATE_URL">
+      <registryValue name="wmplayer.exe" valueType="REG_DWORD" value="0x00000001" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_WEBOC_POPUPMANAGEMENT">
+      <registryValue name="wmplayer.exe" valueType="REG_DWORD" value="0x00000001" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_WINDOW_RESTRICTIONS">
+      <registryValue name="wmplayer.exe" valueType="REG_DWORD" value="0x00000001" />
+    </registryKey>
+    <registryKey keyName="HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Internet Explorer\Main\FeatureControl\FEATURE_ZONE_ELEVATION">
+      <registryValue name="wmplayer.exe" valueType="REG_DWORD" value="0x00000001" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\CLSID\{5569e7f5-424b-4b93-89ca-79d17924689a}\">
+      <registryValue name="" valueType="REG_SZ" value="Windows Media Player Plug-in Registrar" />
+      <securityDescriptor name="WRP_KEY_DEFAULT_SDDL" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\CLSID\{5569e7f5-424b-4b93-89ca-79d17924689a}\InprocServer32\">
+      <registryValue name="" valueType="REG_EXPAND_SZ" value="%SystemRoot%\system32\wmp.dll" />
+      <registryValue name="ThreadingModel" valueType="REG_SZ" value="Apartment" />
+    </registryKey>
+    <registryKey keyName="HKEY_CLASSES_ROOT\CLSID\{E96F5460-09CE-4f46-88B1-F4B6B4A8E252}\">
+      <registryValue name="" valueTyp
